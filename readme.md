@@ -68,7 +68,6 @@ function getJoke(){
 
 ## Project Screenshots:
 ![alt text](/images/timerscreenshot.png "project screenshot")
-https://github.com/niktechnopro/First-Front-End-Project/blob/master/images/timerscreenshot.png
 
 ## 3 Contributions We’d Like to See:
 1. Incorporate periodic displays of encouraging quotes and messages to inspire the user to keep working hard!
