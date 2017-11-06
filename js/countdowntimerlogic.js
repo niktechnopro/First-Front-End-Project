@@ -126,7 +126,7 @@ function getJoke(){
         $("#chuck-joke").html(result.value.joke);
         console.log("new joke", result)
     });
-    jokeInt = setTimeout(getJoke, 10000); //timer to call new joke after that many(10sec) seconds delay
+    jokeInt = setTimeout(getJoke, 15000); //timer to call new joke after that many(10sec) seconds delay
   }
 
 
