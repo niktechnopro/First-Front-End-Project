@@ -5,8 +5,8 @@ There are only so many hours in a day! Let's Focus!
 
 ## The Team:
 * **[Nikolas Bogucharsky](https://github.com/niktechnopro)**: 
-	* **Primary team role**: JS logic, design contributor
-  	* **Contributions**:  JS timer, event listeners, jQuery effects, audio notification, jokes API 
+	* **Primary team role**: timer logic, design contributor
+  	* **Contributions**:  timer, event listeners, jQuery effects, audio notification, jokes API 
   	* **Key code portions**: JavaScript, portion of HTML and CSS effects
 
 * **[Taylor Whitlatch](https://github.com/TaylorWhitlatch)**: 
