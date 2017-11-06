@@ -5,8 +5,8 @@ There are only so many hours in a day! Let's Focus!
 
 ## The Team:
 * **[Nikolas Bogucharsky](https://github.com/niktechnopro)**: 
-	* **Primary team role**: timer logic, design contributor
-  	* **Contributions**:  timer, event listeners, jQuery effects, audio notification, jokes API 
+	* **Primary team role**: Timer logic, design contributor
+  	* **Contributions**:  Timer, event listeners, jQuery effects, audio notification, jokes API 
   	* **Key code portions**: JavaScript, portion of HTML and CSS effects
 
 * **[Taylor Whitlatch](https://github.com/TaylorWhitlatch)**: 
@@ -15,8 +15,8 @@ There are only so many hours in a day! Let's Focus!
   	* **Key code portions**: Most of the HTML and CSS
 
 * **[Saif Mahmud](https://github.com/saiftg)**:
-	* **Primary team role**: JS logic contributor
-  	* **Contributions**:  JS debugging, refactoring
+	* **Primary team role**: Logic contributor
+  	* **Contributions**:  Debugging, refactoring
   	* **Key code portions**: JavaScript, Some HTML, CSS 
 
 * **[Zach Dunn](https://github.com/ZachDunn8)**: 
@@ -26,7 +26,7 @@ There are only so many hours in a day! Let's Focus!
 
 * **[Jennifer Menze](https://github.com/jamenze)**: 
   	* **Primary team role**: Prototype, Styling
-  	* **Contributions**:  Website name, layout, and technical writing. Assisted with implementing design.
+  	* **Contributions**:  Website name, layout, icon and technical writing. Assisted with implementing design.
   	* **Key code portions**: Website wireframe, README file, Some HTML and CSS
 
 
